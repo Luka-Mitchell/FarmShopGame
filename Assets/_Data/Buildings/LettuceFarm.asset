@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53f90d1a7f3da484cb3b6f862017e339, type: 3}
+  m_Name: LettuceFarm
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Lettuce Farm
+  <Cost>k__BackingField: 20
+  <BuildSprite>k__BackingField: {fileID: 21300000, guid: 3e87be51823d846949ed08c33c74b463, type: 3}
+  <Prefab>k__BackingField: {fileID: 170790980459550301, guid: 71f1c4608f3f0ae4da04f5da35bfb32f, type: 3}
+  <Ghost>k__BackingField: {fileID: 170790980459550301, guid: 5e344adf3b790bc47a888c504144b21a, type: 3}
+  <GridWidth>k__BackingField: 2
+  <GridHeight>k__BackingField: 2

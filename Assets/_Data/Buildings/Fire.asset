@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53f90d1a7f3da484cb3b6f862017e339, type: 3}
+  m_Name: Fire
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Fire
+  <Cost>k__BackingField: 10
+  <BuildSprite>k__BackingField: {fileID: 21300128, guid: 7810966f0f690954c87305933cabf2b0, type: 3}
+  <Prefab>k__BackingField: {fileID: 4453334123093999830, guid: 28a42d07c4a17dd41a112e80fdf91c48, type: 3}
+  <Ghost>k__BackingField: {fileID: 4453334123093999830, guid: ab9467f7e5872bc4ab583d72491d0742, type: 3}

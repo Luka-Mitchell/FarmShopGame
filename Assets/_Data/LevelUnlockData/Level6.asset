@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44c3c67438e58314081a860346149232, type: 3}
+  m_Name: Level6
+  m_EditorClassIdentifier: 
+  levelNumber: 6
+  xpToNextLevel: 150
+  buildUnlocks:
+  - buildingData: {fileID: 11400000, guid: 10f6b6184f1533e499c6c5a92fadee01, type: 2}
+    newLimit: 1
+  foodUnlocks:
+  - {fileID: 11400000, guid: 405d769104127c742881d4f91e99cab2, type: 2}
+  - {fileID: 11400000, guid: 15b17093d1d3f2a4dbf52ae3e001e94a, type: 2}

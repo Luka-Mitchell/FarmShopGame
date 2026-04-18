@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53f90d1a7f3da484cb3b6f862017e339, type: 3}
+  m_Name: Stove
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Stove
+  <Cost>k__BackingField: 150
+  <BuildSprite>k__BackingField: {fileID: 21300000, guid: 446e0173470db0e4eb375db9823db453, type: 3}
+  <Prefab>k__BackingField: {fileID: 2047803599417752429, guid: cfeb3a7f6419afd4fbb29d7367b7a0fc, type: 3}
+  <Ghost>k__BackingField: {fileID: 2047803599417752429, guid: 8e813ab6e0d57b94bbae25c5dcd26bc9, type: 3}
